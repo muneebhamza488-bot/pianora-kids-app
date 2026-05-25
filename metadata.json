@@ -1,0 +1,8 @@
+{
+  "name": "Pianora Kids",
+  "description": "An interactive app for children to explore musical instruments, learn basic notes, and play fun, educational songs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
